@@ -77,5 +77,7 @@
 
 ![predict](https://user-images.githubusercontent.com/92905284/217201476-b19ce602-c6be-4d49-81fa-c52d4e411fc9.png)
 
+![ham](https://user-images.githubusercontent.com/92905284/217203482-955e1d6c-dae7-4e55-b7fa-5adffc5f1416.png)
+
 
 
